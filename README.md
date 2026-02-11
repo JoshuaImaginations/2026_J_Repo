@@ -21,5 +21,9 @@ mm <br>
 + This statement is in green colour.
 - This statement is in red colour.
 I got the right code and the use of ```diff function to render coloured text and its background.
+---
+```diff
++ Practice statement green.
+- Practice statement red.
 
 
